@@ -7,3 +7,6 @@ Please ensure you have installed VirtualBox (or your preferred hypervisor) with 
 
 # VECTR Official release found here 
 https://github.com/SecurityRiskAdvisors/VECTR/releases
+
+# Install the VECTR by using the below script 
+Vectrinstallation.sh 
