@@ -42,5 +42,4 @@ echo "127.0.0.1 sravectr.internal" | sudo tee -a /etc/hosts
 echo "Starting VECTR..."
 cd /opt/vectr
 sudo docker compose up -d
-
 echo "VECTR installation complete!"
